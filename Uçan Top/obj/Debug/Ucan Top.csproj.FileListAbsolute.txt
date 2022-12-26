@@ -1,0 +1,20 @@
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.exe.config
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.exe
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.pdb
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp37\obj\Debug\Ucan Top.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Properties.Resources.resources
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp37\obj\Debug\Ucan Top.csproj.GenerateResource.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp37\obj\Debug\Ucan Top.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.exe
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.pdb
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Ucan_Top.resources
+C:\Users\husey\Desktop\200119042 _HüseyinYiğit_GörselFinal\Uçan Top\bin\Debug\WindowsFormsApp37.exe.config
+C:\Users\husey\Desktop\200119042 _HüseyinYiğit_GörselFinal\Uçan Top\bin\Debug\WindowsFormsApp37.exe
+C:\Users\husey\Desktop\200119042 _HüseyinYiğit_GörselFinal\Uçan Top\bin\Debug\WindowsFormsApp37.pdb
+C:\Users\husey\Desktop\200119042 _HüseyinYiğit_GörselFinal\Uçan Top\obj\Debug\Ucan Top.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\200119042 _HüseyinYiğit_GörselFinal\Uçan Top\obj\Debug\WindowsFormsApp37.Ucan_Top.resources
+C:\Users\husey\Desktop\200119042 _HüseyinYiğit_GörselFinal\Uçan Top\obj\Debug\WindowsFormsApp37.Properties.Resources.resources
+C:\Users\husey\Desktop\200119042 _HüseyinYiğit_GörselFinal\Uçan Top\obj\Debug\Ucan Top.csproj.GenerateResource.cache
+C:\Users\husey\Desktop\200119042 _HüseyinYiğit_GörselFinal\Uçan Top\obj\Debug\Ucan Top.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\200119042 _HüseyinYiğit_GörselFinal\Uçan Top\obj\Debug\WindowsFormsApp37.exe
+C:\Users\husey\Desktop\200119042 _HüseyinYiğit_GörselFinal\Uçan Top\obj\Debug\WindowsFormsApp37.pdb

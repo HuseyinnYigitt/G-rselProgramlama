@@ -1,0 +1,10 @@
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.exe.config
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.exe
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp32\bin\Debug\WindowsFormsApp32.pdb
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp32\obj\Debug\At Yarisi.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.Properties.Resources.resources
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp32\obj\Debug\At Yarisi.csproj.GenerateResource.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp32\obj\Debug\At Yarisi.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.exe
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.pdb
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp32\obj\Debug\WindowsFormsApp32.At_Yarisi.resources

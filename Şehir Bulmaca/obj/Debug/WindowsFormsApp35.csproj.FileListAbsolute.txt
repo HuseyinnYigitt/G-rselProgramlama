@@ -1,0 +1,30 @@
+C:\Users\eko\source\repos\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe.config
+C:\Users\eko\source\repos\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe
+C:\Users\eko\source\repos\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.pdb
+C:\Users\eko\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csprojAssemblyReference.cache
+C:\Users\eko\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form1.resources
+C:\Users\eko\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Properties.Resources.resources
+C:\Users\eko\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.GenerateResource.cache
+C:\Users\eko\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.CoreCompileInputs.cache
+C:\Users\eko\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.exe
+C:\Users\eko\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.pdb
+C:\Users\user\Downloads\c_FINAL_ODEVI\c# FİNAL ÖDEVİ\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe.config
+C:\Users\user\Downloads\c_FINAL_ODEVI\c# FİNAL ÖDEVİ\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe
+C:\Users\user\Downloads\c_FINAL_ODEVI\c# FİNAL ÖDEVİ\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.pdb
+C:\Users\user\Downloads\c_FINAL_ODEVI\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csprojAssemblyReference.cache
+C:\Users\user\Downloads\c_FINAL_ODEVI\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form1.resources
+C:\Users\user\Downloads\c_FINAL_ODEVI\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Properties.Resources.resources
+C:\Users\user\Downloads\c_FINAL_ODEVI\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.GenerateResource.cache
+C:\Users\user\Downloads\c_FINAL_ODEVI\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\c_FINAL_ODEVI\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.exe
+C:\Users\user\Downloads\c_FINAL_ODEVI\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.pdb
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe.config
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.pdb
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form1.resources
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Properties.Resources.resources
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.GenerateResource.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.exe
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.pdb

@@ -1,0 +1,10 @@
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe.config
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.pdb
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\Sehir Bulmaca.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.SehirBulmaca.resources
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Properties.Resources.resources
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\Sehir Bulmaca.csproj.GenerateResource.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\Sehir Bulmaca.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.exe
+C:\Users\husey\Desktop\c# FİNAL ÖDEVİ\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.pdb
